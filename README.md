@@ -12,7 +12,7 @@ I wanted to make my own version of this project, except Disney themed because it
 ![alt text](https://live.staticflickr.com/65535/51645993928_830db40c11_b.jpg)
 
 What's left?
-[] finish the audio player UI
-[] give audio player UI some funtionality and add the mp3 sounds
-[] make the left div wand a theme toggler 
+- [] finish the audio player UI
+- [] give audio player UI some funtionality and add the mp3 sounds
+- [] make the left div wand a theme toggler 
 
