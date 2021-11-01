@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Mouse Memoirs', sans-serif;
+    color: #93A4A8;
+}
+body{
+    margin: 0;
+    background-color:#c1dfeb ;
+}
+.nav{
+    color: #93A4A8;
+    text-shadow:5px 5px #E9F0F1;
+    font-size: 50px;
+     padding-left: 6%; 
+     padding-right: 10%;  
+     line-height: 10px;
+     letter-spacing: 3px;
+ }
+
+.main_container{
+    display: flex;
+    justify-content: center;
+    padding-top: 1%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+@media only screen and (max-width: 551px){
+.main_container{
+    display: block;
+}
+.div1{
+    margin: 4%;
+}
+.div2{
+    margin: 4%;
+}
+.div3{
+    margin: 4%;
+}
+}
+
+
+.div1{
+    font-family: 'Mouse Memoirs', sans-serif;
+    color: #93A4A8;
+    text-shadow:5px 5px #E9F0F1;
+    font-size: 80px;
+     padding-left: 27%; 
+     padding-right: 15%; 
+     background-image: url('https://images.vexels.com/media/users/3/238791/isolated/preview/043a82be02264795daf7c38200d74cfd-color-stroke-fairy-magic-wand.png'); 
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+.div2{
+    text-align: center;
+    background-image: url('https://images.unsplash.com/photo-1597466599360-3b9775841aec?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=764&q=80');
+    height: 70vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 7px solid #E9F0F1; 
+    padding-left: 20%; 
+    padding-right: 20%; 
+}
+.div3{
+    text-align: center;
+    padding-left: 6%; 
+    padding-right: 20%; 
+   
+}
+
+/* audio */
+.player1{
+display: flex;
+}
+.player1 img{
+    height: 50px;
+    width: 50px;
+}
+.hr{
+    width: 40vh;
+    padding-top: 3%;
+    margin-left: 3%;
+}
+.test{
+display: flex;
+}
+.name{
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+.play{
+/* cursor:crosshair */
+}
+.play:hover{
+    color: #E9F0F1;
+    cursor: pointer;
+}
+.footer{
+    text-align: center;
+    letter-spacing: 2px;
+}
