@@ -1,6 +1,6 @@
 # I Miss Disney World 🪄
 
-##Progression Log
+## Progression Log
 ### October 31, 2021
 
 * Today I started a new project inspired by:
